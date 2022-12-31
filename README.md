@@ -9,4 +9,4 @@
 <br>
 <br>
 
-<img src="https://img.shields.io/badge/HTML-5-red" /><img src="https://img.shields.io/badge/CSS-3-blue" />
+<img src="https://img.shields.io/badge/HTML-5-red" />  <img src="https://img.shields.io/badge/CSS-3-blue" />
